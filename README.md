@@ -1,11 +1,13 @@
 GrowMate - Crop Reminder System
 
 🌱 Overview
+
 GrowMate is a comprehensive farming assistance application designed to help Sri Lankan farmers manage their agricultural activities efficiently. This repository contains the Reminder Module - a crucial feature that helps farmers stay on top of their farming schedules and prevent missed tasks.
 
 📱 Reminder Module Features
 
 ✅ Core Functionality
+
 - Custom Crop Reminders: Schedule reminders for sowing, irrigation, fertilizing, and harvesting
 
 - Multi-Field Support: Manage reminders across multiple fields with different crops
@@ -17,6 +19,7 @@ GrowMate is a comprehensive farming assistance application designed to help Sri 
 - Recurring Tasks: Set daily, weekly, or custom repeating intervals for irrigation
 
 🎯 Key Benefits for Farmers
+
 - Prevent missed cycles: Never miss irrigation or fertilization schedules
 
 - Improve crop yields: Timely interventions lead to better harvest outcomes
@@ -58,6 +61,7 @@ Test notifications functionality
 View and clear pending notifications
  
 📄 License
+
 This project is part of the GrowMate application. All rights reserved.
 
 👥 Team
@@ -66,6 +70,7 @@ This project is part of the GrowMate application. All rights reserved.
  Purpose: Final Year Project - Horizon Campus 
 
  🙏 Acknowledgments
+ 
 Flutter community for excellent documentation
 Farmers in rural Sri Lanka for their valuable insights
 University supervisors for guidance and support
